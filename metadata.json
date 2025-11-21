@@ -1,0 +1,7 @@
+{
+  "name": "CineAssist AI",
+  "description": "An AI-powered intelligent assistant for 1st and 2nd ACs, providing instant menu navigation, specs, and troubleshooting for cinema cameras.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
